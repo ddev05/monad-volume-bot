@@ -42,4 +42,4 @@ The bot interacts directly with Nadfun swap contracts to generate real on-chain 
 
 ## Contact
 
-Telegram [S.E.I](https://t.me/sei_dev)
+Telegram [DDev](https://t.me/ddev05)
